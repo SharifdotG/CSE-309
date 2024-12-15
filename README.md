@@ -16,9 +16,12 @@ This course is designed to provide students with a comprehensive understanding o
 ## Table of Contents
 
 - [Mid Solve](/Mid%20Solve/)
-  - [Fall 2023](/Mid%20Solve/01_Fall_2023.ipynb)
-  - [Spring 2023](/Mid%20Solve/02_Spring_2023.ipynb)
-  - [Fall 2022](/Mid%20Solve/03_Fall_2022.ipynb)
-  - [Spring 2022](/Mid%20Solve/04_Spring_2022.ipynb)
-  - [Fall 2021](/Mid%20Solve/05_Fall_2021.ipynb)
-  - [Spring 2021](/Mid%20Solve/06_Spring_2021.ipynb)
+  - [*Questions*](/Mid%20Solve/Questions/)
+  - [Fall 2023](/Mid%20Solve/Fall_2023.ipynb)
+  - [Spring 2023](/Mid%20Solve/Spring_2023.ipynb)
+  - [Fall 2022](/Mid%20Solve/Fall_2022.ipynb)
+  - [Spring 2022](/Mid%20Solve/Spring_2022.ipynb)
+  - [Fall 2021](/Mid%20Solve/Fall_2021.ipynb)
+  - [Spring 2021](/Mid%20Solve/Spring_2021.ipynb)
+  - [Fall 2020](/Mid%20Solve/Fall_2020.ipynb)
+  - [Spring 2020](/Mid%20Solve/Spring_2020.ipynb)
